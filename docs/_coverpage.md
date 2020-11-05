@@ -6,9 +6,9 @@
 
 # MathStudio 中文Wiki
 
-- 简单、轻便 (压缩后 ~21kB)
-- 无需生成 html 文件
-- 众多主题
+- 汉化内容由MathStudio讨论群完成
+- 浏览关于我们，了解MathStudio讨论群或加入我们
+- 浏览Mathstudio官方手册：http://mathstud.io/manual/
 
 [GitHub](https://github.com/Reagan1947/MathstudioWiki)
 [Get Started](#docsify)
