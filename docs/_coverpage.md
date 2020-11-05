@@ -10,7 +10,7 @@
 - 无需生成 html 文件
 - 众多主题
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/Reagan1947/MathstudioWiki)
 [Get Started](#docsify)
 
 <!-- 背景图片 -->
