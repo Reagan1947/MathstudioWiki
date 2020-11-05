@@ -1,4 +1,4 @@
-# Mathstudio
+# 关于我们
 
 > 这是一个MathStudio wiki的测试界面
 

@@ -11,7 +11,7 @@
 - 浏览Mathstudio官方手册：http://mathstud.io/manual/
 
 [GitHub](https://github.com/Reagan1947/MathstudioWiki)
-[Get Started](#docsify)
+[阅读MathStudio手册](TheBasics/)
 
 <!-- 背景图片 -->
 
