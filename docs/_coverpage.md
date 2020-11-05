@@ -4,7 +4,7 @@
 
 <!-- # docsify <small>3.5</small> -->
 
-# MathStudio 中文Wiki
+# MathStudio中文Wiki
 
 - 汉化内容由MathStudio讨论群完成
 - 浏览关于我们，了解MathStudio讨论群或加入我们
