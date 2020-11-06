@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](_media/mathstudio_logo.png)
+<!-- ![logo](_media/unnamed.png) -->
 
 <!-- # docsify <small>3.5</small> -->
 
