@@ -6,8 +6,14 @@ MathStudio是一款可应用于iPhone,iPad，Apple Watch，Mac 和你浏览器�
 
 # 基本运算
 
-> ```math
+> ```mathematica
 > 1 + 2 + 3 + 4 + 5
 > ```
 >
 > $15$
+
+> ```mathematica
+> 15!
+> ```
+>
+> $720$
