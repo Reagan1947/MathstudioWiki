@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-<!-- ![logo](_media/unnamed.png) -->
+![logo](img/logo.svg) 
 
 <!-- # docsify <small>3.5</small> -->
 
@@ -19,4 +19,3 @@
 
 <!-- 背景色 -->
 
-![color](#ffffff)
