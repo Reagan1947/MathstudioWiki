@@ -11,5 +11,3 @@ MathStudio讨论群，是一群因MathStudio走在一起的小伙伴。我们计
 - Coding：https://e.coding.net/mathstudio/MathstudioWiki/Mathstudio.git
 
 当然也欢迎大家加入MathStudio讨论组。
-
-

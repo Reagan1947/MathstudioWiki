@@ -12,4 +12,6 @@
 
 
 * Operators 运算符
-  - [1. Basic<html>&nbsp;</html>Operators 基础运算符](Operators/BasicOperators)
+  - [1. Basic Operators 基础运算符](Operators/基础运算符)
+  - [2. Double Power Operator 双幂运算符](Operators/双幂运算符)
+  - [3. Comparison Operators 比较运算符](Operators/比较运算符)
