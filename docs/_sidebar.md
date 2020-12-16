@@ -1,7 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* [关于我们](/AboutUs/#关于我们)
-* The<html>&nbsp;</html>Basics 基础
+* [**Home Page 首页**](/)
+
+* The Basics 基础
   - [1. Introduction 介绍](TheBasics/Introduction)
   - [2. Trigonometric Functions 三角函数](TheBasics/TrigonometricFunctions)
   - [3. Special Values 特殊值](TheBasics/SpecialValues)
@@ -10,6 +11,13 @@
   - [6. Algebra 代数](TheBasics/Algebra)
   - [7. Calculus 微积分](TheBasics/Calsulus)
 
-
 * Operators 运算符
-  - [1. Basic<html>&nbsp;</html>Operators 基础运算符](Operators/BasicOperators)
+  - [1. Basic Operators 基础运算符](Operators/BasicOperators)
+
+* Help 帮助
+  - [1. 如何在github中编辑文档]()
+  - [2. 如何使用git工具]()
+  - [3. 如何使用MarkDown编辑器]()
+  - [4. 汉化文档标准]()
+
+* [**About Us 关于我们**](/AboutUs/#关于我们)

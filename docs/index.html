@@ -10,19 +10,30 @@
   <meta name="viewport"
     content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <script src="//cdn.jsdelivr.net/npm/docsify-edit-on-github"></script>
 </head>
 
 <body>
-  <div id="app">加载中</div>
+  <div id="app"></div>
   <script>
     window.$docsify = {
-      el: '#app',
+      // el: '#app',
+      topMargin: 226, // default: 0
       name: '',
       repo: '',
       coverpage: true,
       onlyCover: true,
       themeColor: '#8b008b',
       loadSidebar: true,
+
+      plugins: [
+        EditOnGithubPlugin.create(
+          'https://github.com/Reagan1947/MathstudioWiki/tree/master/docs/',
+          null,
+          '在github上编辑此文档'
+          )
+    ]
+      
       // subMaxLevel: 3
     }
   </script>
