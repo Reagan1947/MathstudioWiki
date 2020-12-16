@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-* [关于我们](/#关于我们)
+* [关于我们](/AboutUs/#关于我们)
 * The<html>&nbsp;</html>Basics 基础
   - [1. Introduction 介绍](TheBasics/Introduction)
   - [2. Trigonometric Functions 三角函数](TheBasics/TrigonometricFunctions)
