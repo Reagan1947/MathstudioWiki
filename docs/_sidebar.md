@@ -20,4 +20,4 @@
   - [3. 如何使用MarkDown编辑器]()
   - [4. 汉化文档标准]()
 
-* [**About Us 关于我们**](/AboutUs/#关于我们)
+* [**About Us 关于我们**](AboutUs/)
