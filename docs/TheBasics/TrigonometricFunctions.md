@@ -41,9 +41,9 @@ csc(z), sec(z), cot(z)
 >    ```math
 >    Plot(sin(x))
 >    ```
->    ![graphing_00](../_media/graphing_00.png)
+>    ![graphing_00](../_media/TheBasics/TrigonometricFunctions/graphing_00.png)
 
 >    ```math
->    5x - 2x
+>    Plot(sin(x), cos(x), tan(x), colors=[red, blue, green])
 >    ```
->    ${\text{3}}x$
+>    ![graphing_01](../_media/TheBasics/TrigonometricFunctions/graphing_01.png)
