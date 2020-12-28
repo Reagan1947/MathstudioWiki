@@ -3,8 +3,10 @@
 **基础(三角函数)或圆函数**
 <br>sin(z), cos(z), tan(z)
 
-**Inverse**
+**反(三角函数)**
 <br>asin(z), acos(z), atan(z), atan(x, y)
+
+(反三角函数是三角函数的反函数，定义参见：http://mathworld.wolfram.com/TrigonometricFunctions.html)
 
 **Auxiliary**
 <br>csc(z), sec(z), cot(z)
