@@ -1,6 +1,6 @@
 ### 三角函数
 
-**Basic or Circular**
+**基础(三角函数)或圆函数**
 <br>sin(z), cos(z), tan(z)
 
 **Inverse**
@@ -63,3 +63,11 @@
 >    Plot(sin(x), cos(x), tan(x), colors=[red, blue, green])
 >    ```
 >    ![graphing_01](../_media/TheBasics/TrigonometricFunctions/graphing_01.png)
+
+### 引用
+http://mathworld.wolfram.com/TrigonometricFunctions.html
+http://mathworld.wolfram.com/InverseTrigonometricFunctions.html
+http://en.wikipedia.org/wiki/Trigonometric_functions
+http://mathworld.wolfram.com/HyperbolicFunctions.html
+http://mathworld.wolfram.com/InverseHyperbolicFunctions.html
+http://en.wikipedia.org/wiki/Hyperbolic_function
