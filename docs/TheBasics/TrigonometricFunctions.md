@@ -41,7 +41,7 @@ csc(z), sec(z), cot(z)
 >    ```math
 >    Plot(sin(x))
 >    ```
->    ![graphing_00](_media/graphing_00.png)
+>    ![graphing_00](../_media/graphing_00.png)
 
 >    ```math
 >    5x - 2x
