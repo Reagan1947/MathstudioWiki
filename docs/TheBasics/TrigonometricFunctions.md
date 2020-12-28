@@ -8,13 +8,13 @@
 
 (反三角函数是三角函数的反函数，定义参见：http://mathworld.wolfram.com/TrigonometricFunctions.html)
 
-**Auxiliary**
+**辅助(三角函数)**
 <br>csc(z), sec(z), cot(z)
 
 **Auxiliary Inverse**
 <br>acsc(z), asec(z), acot(z)
 
-**Hyperbolic**
+**双曲(三角)函数**
 <br>sinh(z), cosh(z), tanh(z)
 
 **Inverse Hyperbolic**
