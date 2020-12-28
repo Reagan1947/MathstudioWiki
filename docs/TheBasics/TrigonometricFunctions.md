@@ -1,28 +1,28 @@
 ### 三角函数
 
 **Basic or Circular**
-    sin(z), cos(z), tan(z)
+<br>sin(z), cos(z), tan(z)
 
 **Inverse**
-    asin(z), acos(z), atan(z), atan(x, y)
+<br>asin(z), acos(z), atan(z), atan(x, y)
 
 **Auxiliary**
-    csc(z), sec(z), cot(z)
+<br>csc(z), sec(z), cot(z)
 
 **Auxiliary Inverse**
-    acsc(z), asec(z), acot(z)
+<br>acsc(z), asec(z), acot(z)
 
 **Hyperbolic**
-    sinh(z), cosh(z), tanh(z)
+<br>sinh(z), cosh(z), tanh(z)
 
 **Inverse Hyperbolic**
-    asinh(z), acosh(z), atanh(z)
+<br>asinh(z), acosh(z), atanh(z)
 
 **Auxiliary Hyperbolic**
-    csch(z), sech(z), coth(z)
+<br>csch(z), sech(z), coth(z)
 
 **Auxiliary Inverse Hyperbolic**
-    acsch(z), asech(z), acoth(z)
+<br>acsch(z), asech(z), acoth(z)
 
 ### 举例
 [在Mathstudio上浏览](http://mathstud.io/?input[0]=c2luKEBwaS80KQ%3D%3D&input[1]=c2luKDMwQGQp&input[2]=c2luKHgpL2Nvcyh4KQ%3D%3D&input[3]=c2luaCh4KS9jb3NoKHgp&input[4]=UGxvdChzaW4oeCkp&input[5]=UGxvdChzaW4oeCksY29zKHgpLHRhbih4KSxjb2xvcnM9W3JlZCxibHVlLGdyZWVuXSk%3D&input[6]=UGxvdChzaW5oKHgpKQ%3D%3D&input[7]=UGxvdChjb3NoKHgpKQ%3D%3D)
