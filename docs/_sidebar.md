@@ -13,6 +13,8 @@
 
 * Operators 运算符
   - [1. Basic Operators 基础运算符](Operators/BasicOperators)
+  - [2. Double Power Operators 双幂运算符](Operators/DoublePowerOperator)
+  - [3. Comparison Operators 比较运算符](Operators/ComparisonOperators)
 
 * Help 帮助
   - [1. 如何在github中编辑文档]()
