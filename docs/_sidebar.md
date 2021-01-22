@@ -15,8 +15,8 @@
   - [1. Basic Operators 基础运算符](Operators/BasicOperators)
   - [2. Double Power Operators 双幂运算符](Operators/DoublePowerOperator)
   - [3. Comparison Operators 比较运算符](Operators/ComparisonOperators)
-  - [4. Logical Operators 逻辑运算符](Operators/LogicalOperators.md)
-
+  - [4. Logical Operators 逻辑运算符](Operators/LogicalOperators)
+  - [5. Compound Assignment Operators复合赋值运算符](Operators/CompoundAssignmentOperators)
 * Help 帮助
   - [1. 如何在github中编辑文档]()
   - [2. 如何使用git工具]()
