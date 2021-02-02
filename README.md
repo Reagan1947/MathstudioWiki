@@ -2,7 +2,7 @@
   <br>
   <img src="https://github.com/Reagan1947/MathstudioWiki/blob/master/docs/_media/mathstudio_logo.png" alt="MathStudioWiki" width="170">
   <br>
-  MathStudio x CN
+  MathStudio With ZH
   <br>
 </h1>
 
