@@ -9,3 +9,5 @@
 <h4 align="center" font-weight:bold;">MathStudio Wiki</br>
                                      中文手册汉化项目</br></h4>
 <p align="center">
+                 
+## 关于汉化小组                 
