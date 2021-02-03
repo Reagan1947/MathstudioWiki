@@ -42,8 +42,8 @@
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lstoryzx"><img src="https://avatars.githubusercontent.com/u/51326568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lstoryzx</b></sub></a><br /><a href="#content-lstoryzx" title="Content">🖋</a></td>
-    <td align="center"><a href="http://cnblogs.com/guten-tag"><img src="https://avatars.githubusercontent.com/u/35622305?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reagan lee</b></sub></a><br /><a href="#content-Reagan1947" title="Content">🖋</a> <a href="https://github.com/Reagan1947/MathstudioWiki/commits?author=Reagan1947" title="Code">💻</a> <a href="#maintenance-Reagan1947" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://github.com/lstoryzx"><img src="https://avatars.githubusercontent.com/u/51326568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lstoryzx</b></sub></a><br /><a href="#content-lstoryzx" title="Content"><!--🖋--></a></td>
+    <td align="center"><a href="http://cnblogs.com/guten-tag"><img src="https://avatars.githubusercontent.com/u/35622305?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Reagan lee</b></sub></a><br /><a href="#content-Reagan1947" title="Content"><!--🖋--></a> <a href="https://github.com/Reagan1947/MathstudioWiki/commits?author=Reagan1947" title="Code"><!--💻--></a> <a href="#maintenance-Reagan1947" title="Maintenance"><!--🚧--></a></td>
   </tr>
 </table>
 
@@ -52,4 +52,4 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
+贡献人员列表通过[all-contributors](https://github.com/all-contributors/all-contributors)构建
