@@ -11,7 +11,7 @@
 [在Mathstudio上浏览](http://mathstud.io/?input[0]=YT0wDQohYQ%3D%3D&input[1]=YT0xDQohYQ%3D%3D&input[2]=MSAmJiAy&input[3]=MSAmJiAw&input[4]=MSB8fCAy&input[5]=MSB8fCAw)
 
 
-## 逻辑NOT
+## 逻辑非
 
 > ```math
 > a=0
@@ -27,7 +27,7 @@
 >
 > $0$
 
-## 逻辑AND
+## 逻辑与
 
 > ```math
 > 1 && 2
@@ -41,7 +41,7 @@
 >
 > $0$
 
-## 逻辑OR
+## 逻辑或
 
 > ```math
 > 1 || 2
