@@ -22,6 +22,8 @@
   - [8. Range Operator范围运算符](Operators/RangeOperator)
   - [9. Transformation Operator转换运算符](Operators/TransformationOperator)
   - [10. Index Operator索引运算符](Operators/IndexOperator)
+  - [11. Union Operator合并运算符](Operators/UnionOperator)
+  - [12. Intersection Operator交集运算符](Operators/IntersectionOperator)
 * Help 帮助
   - [1. 如何在github中编辑文档]()
   - [2. 如何使用git工具]()
