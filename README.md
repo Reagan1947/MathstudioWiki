@@ -33,13 +33,7 @@
 // 待完善
 
 
-
 ## 4. 贡献人员
-@all-contributors bot 
-
-
-
-## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
