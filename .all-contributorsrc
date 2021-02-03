@@ -24,6 +24,15 @@
         "code",
         "maintenance"
       ]
+    },
+    {
+      "login": "YuYuCong",
+      "name": "William Yu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30014869?v=4",
+      "profile": "http://williamyu.top",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
