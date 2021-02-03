@@ -35,14 +35,19 @@
 
 ## 4. 贡献人员
 
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+<!--Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):-->
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/lstoryzx"><img src="https://avatars.githubusercontent.com/u/51326568?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lstoryzx</b></sub></a><br /><a href="#content-lstoryzx" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/lstoryzx">
+      <img src="https://avatars.githubusercontent.com/u/51326568?v=4?s=100" width="100px;" alt=""/><br />
+      <sub>
+        <b>lstoryzx</b>
+      </sub>
+      </a><br /><a href="#content-lstoryzx" title="Content"></a></td>
   </tr>
 </table>
 
