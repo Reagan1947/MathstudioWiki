@@ -10,13 +10,8 @@
                                      中文手册汉化项目</br></h4>
 <p align="center">
                  
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<!--Last commit tag-->
-[![Last commit](https://img.shields.io/github/last-commit/Reagan1947/MathstudioWiki?style=flat-square)
-<!--Last commit tag:END-->
+![Last commit](https://img.shields.io/github/last-commit/Reagan1947/MathstudioWiki?style=flat-square)
              
 ## 1. 关于汉化小组   
 
