@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lstoryzx",
+      "name": "lstoryzx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51326568?v=4",
+      "profile": "https://github.com/lstoryzx",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "MathstudioWiki",
+  "projectOwner": "Reagan1947",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
