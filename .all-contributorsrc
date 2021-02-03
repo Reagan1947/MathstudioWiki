@@ -13,6 +13,17 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "Reagan1947",
+      "name": "Reagan lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35622305?v=4",
+      "profile": "http://cnblogs.com/guten-tag",
+      "contributions": [
+        "content",
+        "code",
+        "maintenance"
+      ]
     }
   ],
   "contributorsPerLine": 7,
