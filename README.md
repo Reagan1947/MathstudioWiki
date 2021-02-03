@@ -47,7 +47,7 @@
       <sub>
         <b>lstoryzx</b>
       </sub>
-      </a><br /><a href="#content-lstoryzx" title="Content"></a></td>
+      </a><br /><a href="#content-lstoryzx" title="Content"><!--Content--></a></td>
   </tr>
 </table>
 
