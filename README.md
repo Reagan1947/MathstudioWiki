@@ -34,7 +34,7 @@
 
 
 ## 4. 贡献人员
-@all-contributors 
+@all-contributors bot 
 
 
 
