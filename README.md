@@ -13,7 +13,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-                 
+
+<!--Last commit tag-->
+[![Last commit](https://img.shields.io/github/last-commit/Reagan1947/MathstudioWiki?style=flat-square)
+<!--Last commit tag:END-->
+             
 ## 1. 关于汉化小组   
 
 > 尽管可选择的移动端科学计算软件众多，但MathStudio因其强大的功能，无疑已成为基本科学计算的首选工具。但其也有一定的入门门槛，目前可参考的关于MathStudio的中文资料也较为匮乏。因而希望通过对中文手册的汉化，让更多人能够了解、使用MathStudio。
