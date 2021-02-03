@@ -1,7 +1,4 @@
 <h1 align="center">
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
   <br>
   <img src="https://github.com/Reagan1947/MathstudioWiki/blob/master/docs/_media/mathstudio_logo.png" alt="MathStudioWiki" width="170">
   <br>
@@ -12,6 +9,10 @@
 <h4 align="center" font-weight:bold;">MathStudio Wiki</br>
                                      中文手册汉化项目</br></h4>
 <p align="center">
+                 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
                  
 ## 1. 关于汉化小组   
 
