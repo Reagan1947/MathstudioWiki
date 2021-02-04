@@ -63,6 +63,7 @@
   - [3. Variable Functions](Variables/VariableFunctions)
   - [4. Strings](Variables/Strings)
   - [5. Wildcards](Variables/Wildcards)
+  
 * Scripts 脚本
   - [1. Creating Scripts](Scripts/CreatingScripts)
   - [2. Semicolons](Scripts/Semicolons)
