@@ -6,6 +6,12 @@
   <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
 </ul>-->
 
+<style>
+  .sidebar li>p {
+  color:#8b008b
+  }
+</style>
+
 * The Basics 基础
   - [1. Introduction 介绍](TheBasics/Introduction)
   - [2. Trigonometric Functions 三角函数](TheBasics/TrigonometricFunctions)
