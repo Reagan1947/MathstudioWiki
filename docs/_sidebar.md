@@ -60,7 +60,7 @@
   - [9. Objects](Scripts/Objects)
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
-<ul class="sidebar-nav">  
+<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b">Functions</li>
 </ul>
 
