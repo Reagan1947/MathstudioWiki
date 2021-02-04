@@ -54,12 +54,11 @@
   - [3. Comments](Scripts/Comments)
   - [4. Variable Controls](Scripts/VariableControls)
   - [5. Conditional Statements](Scripts/ConditionalStatements)
-6. For-In Loops
-7. While Loops
-8. Timing
-9. Objects
-10. Working with JSON
-Functions
+  - [6. For-In Loops](Scripts/For-InLoops)
+  - [7. While Loops](Scripts/WhileLoops)
+  - [8. Timing](Scripts/Timing)
+  - [9. Objects](Scripts/Objects)
+  - [10. Working with JSON](Scripts/WorkingwithJSON)
 * A
   - [abs(z)](A/abs)
   - [AiryAi(z)](A/AiryAi)
