@@ -21,16 +21,16 @@
 > ```math
 > Plot(x^(1/3))
 > ```
-> [![BL5M1x.png](https://s1.ax1x.com/2020/11/10/BL5M1x.png)](_media/Operators/DoublePowerOperator1.png)
+> ![BL5M1x.png](../_media/Operators/DoublePowerOperator1.png)
 
 > ```math
 > Plot(x^^(1/3))
 > ```
-> [![BL5a9I.png](https://s1.ax1x.com/2020/11/10/BL5a9I.png)](_media/Operators/DoublePowerOperator2.png)
+> ![BL5a9I.png](../_media/Operators/DoublePowerOperator2.png)
 
 > ```math
 > Slider(a, 3, 11, 2)
 > Plot(x^^(1/a))
 > ```
-> [![BL5fg0.png](https://s1.ax1x.com/2020/11/10/BL5fg0.png)](_media/Operators/DoublePowerOperator3.png)
+> ![BL5fg0.png](../_media/Operators/DoublePowerOperator3.png)
 

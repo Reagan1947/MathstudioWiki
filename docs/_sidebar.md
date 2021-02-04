@@ -24,6 +24,10 @@
   - [10. Index Operator索引运算符](Operators/IndexOperator)
   - [11. Union Operator合并运算符](Operators/UnionOperator)
   - [12. Intersection Operator交集运算符](Operators/IntersectionOperator)
+  - [13. Difference Operator差异运算符](Operators/DifferenceOperator)
+  - [14. Double Modulo Operator双模运算符](Operators/DoubleModuloOperator)
+  - [15. Matrix Operator矩阵运算符](Operators/MatrixOperator)
+  - [16. Matrix Size Operator矩阵大小运算符](Operators/MatrixSizeOperator)
 * Help 帮助
   - [1. 如何在github中编辑文档]()
   - [2. 如何使用git工具]()
