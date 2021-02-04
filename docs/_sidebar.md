@@ -3,7 +3,7 @@
 * [**Home Page 首页**](/)
 
 <ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b; font-weight:bold">Using MathStudio 使用MathStudio</li>
+  <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
 </ul>
 
 * The Basics 基础
@@ -38,7 +38,7 @@
   - [20. Conditional Operator](Operators/ConditionalOperator)
   - [21. Append Operator](Operators/AppendOperator)
   - [22. Element Operator](Operators/ElementOperator)
-* Graphing
+* Graphing 图像
   - [1. 2D Graphing](Graphing/2DGraphing)
   - [2. Plot Styles](Graphing/PlotStyles)
   - [3. Min, Max and Zero Values](Graphing/MinMaxandZeroValues)
@@ -48,16 +48,16 @@
   - [7. Time Graphing](TimeGraphing)
   
 <ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b; font-weight:bold">Scripting Language 脚本语言</li>
+  <li style="color:#8b008b;">Scripting Language 脚本语言</li>
 </ul>
 
-* Variables
+* Variables 变量
   - [1. Creating Variables](Variables/CreatingVariables)
   - [2. Unicode Characters](Variables/UnicodeCharacters)
   - [3. Variable Functions](Variables/VariableFunctions)
   - [4. Strings](Variables/Strings)
   - [5. Wildcards](Variables/Wildcards)
-* Scripts
+* Scripts 脚本
   - [1. Creating Scripts](Scripts/CreatingScripts)
   - [2. Semicolons](Scripts/Semicolons)
   - [3. Comments](Scripts/Comments)
@@ -70,7 +70,7 @@
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
 <ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b; font-weight:bold">Functions 函数</li>
+  <li style="color:#8b008b;">Functions 函数</li>
 </ul>
 
 * A
