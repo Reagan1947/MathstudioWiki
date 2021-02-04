@@ -53,16 +53,17 @@
   - [6. Color Names](Graphing/ColorNames)
   - [7. Time Graphing](TimeGraphing)
   
+
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Scripting Language 脚本语言</li>
 </ul>-->
 
 * Variables 变量
-  - [1. Creating Variables](Variables/CreatingVariables)
-  - [2. Unicode Characters](Variables/UnicodeCharacters)
-  - [3. Variable Functions](Variables/VariableFunctions)
-  - [4. Strings](Variables/Strings)
-  - [5. Wildcards](Variables/Wildcards)
+  - [1. Creating Variables 创建变量](Variables/CreatingVariables)
+  - [2. Unicode Characters Unicode字符](Variables/UnicodeCharacters)
+  - [3. Variable Functions 自定义函数](Variables/VariableFunctions)
+  - [4. Strings 字符串](Variables/Strings)
+  - [5. Wildcards 通配符](Variables/Wildcards)
   
 * Scripts 脚本
   - [1. Creating Scripts](Scripts/CreatingScripts)
@@ -76,6 +77,7 @@
   - [9. Objects](Scripts/Objects)
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
+
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Functions 函数</li>
 </ul>-->
