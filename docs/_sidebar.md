@@ -3,7 +3,7 @@
 * [**Home Page 首页**](/)
 
 <ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b; font-weight:bold">Using MathStudio 如何使用MathStudio</li>
+  <li style="color:#8b008b; font-weight:bold">Using MathStudio 使用MathStudio</li>
 </ul>
 
 * The Basics 基础
