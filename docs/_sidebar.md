@@ -4,7 +4,7 @@
 
 <!--><ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
-</ul><--!>
+</ul><-->
 
 * The Basics 基础
   - [1. 简介](TheBasics/Introduction)
