@@ -59,7 +59,9 @@
   - [8. Timing](Scripts/Timing)
   - [9. Objects](Scripts/Objects)
   - [10. Working with JSON](Scripts/WorkingwithJSON)
-<p>Functions</p>
+  
+<li style="color:#8b008b">Functions</li>
+
 * A
   - [abs(z)](A/abs)
   - [AiryAi(z)](A/AiryAi)
