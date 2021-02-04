@@ -2,7 +2,7 @@
 
 * [**Home Page 首页**](/)
 
-<!--><ul class="sidebar-nav" style="padding-bottom: 0!important">  
+<!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
 </ul>-->
 
