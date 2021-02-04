@@ -2,6 +2,10 @@
 
 * [**Home Page 首页**](/)
 
+<ul class="sidebar-nav" style="padding-bottom: 0!important">  
+  <li style="color:#8b008b; font-weight:bold">Using MathStudio 如何使用MathStudio</li>
+</ul>
+
 * The Basics 基础
   - [1. Introduction 介绍](TheBasics/Introduction)
   - [2. Trigonometric Functions 三角函数](TheBasics/TrigonometricFunctions)
@@ -42,6 +46,11 @@
   - [5. Multiple Plots](Graphing/MultiplePlots)
   - [6. Color Names](Graphing/ColorNames)
   - [7. Time Graphing](TimeGraphing)
+  
+<ul class="sidebar-nav" style="padding-bottom: 0!important">  
+  <li style="color:#8b008b; font-weight:bold">Scripting Language 脚本语言</li>
+</ul>
+
 * Variables
   - [1. Creating Variables](Variables/CreatingVariables)
   - [2. Unicode Characters](Variables/UnicodeCharacters)
@@ -61,7 +70,7 @@
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
 <ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b">Functions</li>
+  <li style="color:#8b008b; font-weight:bold">Functions 函数</li>
 </ul>
 
 * A
