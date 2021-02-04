@@ -60,7 +60,9 @@
   - [9. Objects](Scripts/Objects)
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
-<li style="color:#8b008b">Functions</li>
+<ul class="sidebar-nav">  
+  <li style="color:#8b008b">Functions</li>
+</ul>
 
 * A
   - [abs(z)](A/abs)
