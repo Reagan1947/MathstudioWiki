@@ -2,9 +2,9 @@
 
 * [**Home Page 首页**](/)
 
-<ul class="sidebar-nav" style="padding-bottom: 0!important">  
+<!--><ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
-</ul>
+</ul><--!>
 
 * The Basics 基础
   - [1. Introduction 介绍](TheBasics/Introduction)
@@ -47,9 +47,9 @@
   - [6. Color Names](Graphing/ColorNames)
   - [7. Time Graphing](TimeGraphing)
   
-<ul class="sidebar-nav" style="padding-bottom: 0!important">  
+<!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Scripting Language 脚本语言</li>
-</ul>
+</ul>-->
 
 * Variables 变量
   - [1. Creating Variables](Variables/CreatingVariables)
@@ -69,9 +69,9 @@
   - [9. Objects](Scripts/Objects)
   - [10. Working with JSON](Scripts/WorkingwithJSON)
   
-<ul class="sidebar-nav" style="padding-bottom: 0!important">  
+<!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Functions 函数</li>
-</ul>
+</ul>-->
 
 * A
   - [abs(z)](A/abs)
