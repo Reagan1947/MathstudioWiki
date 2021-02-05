@@ -28,7 +28,7 @@
 >
 > ***Hello World***
 
-### 使用范围(range)截取字符串
+### 使用区间(range)截取字符串
 
 > ```math
 > "Hello World" -> 1..5
