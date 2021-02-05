@@ -28,6 +28,12 @@
   - [14. Double Modulo Operator双模运算符](Operators/DoubleModuloOperator)
   - [15. Matrix Operator矩阵运算符](Operators/MatrixOperator)
   - [16. Matrix Size Operator矩阵大小运算符](Operators/MatrixSizeOperator)
+  - [17. Angle Operator角运算符](Operators/AngleOperator)
+  - [18. Choose Operator选择运算符](Operators/ChooseOperator)
+  - [19. String Concatenation Operator字符串连接运算符](Operators/StringConcatenationOperator)
+  - [20. Conditional Operator条件运算符](Operators/ConditionalOperator)
+  - [21. Append Operator添加运算符](Operators/AppendOperator)
+  - [22. Element Operator元素运算符](Operators/ElementOperator)
 * Help 帮助
   - [1. 如何在github中编辑文档]()
   - [2. 如何使用git工具]()
