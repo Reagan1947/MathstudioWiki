@@ -6,7 +6,7 @@
 
 变量必须以小写，大写或下划线开头，并且可以包含数字，但不能包含空格。 变量名中的@符号后跟下划线（_）表示下标。 也可以通过@符号将一个长字符串作为变量名。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=YT04DQphXjI%3D&input[1]=YT0xMjMNCmI9NDU2DQphK2I%3D&input[2]=Zih4KT14XjINCmYoNSk%3D&input[3]=YT14KngNCmI9eSp5DQphK2I%3D&input[4]=eEBfeQ%3D%3D&input[5]=QCJMb25nIFZhcmlhYmxlIE5hbWUiID0gMTI%3D&input[6]=QCJMb25nIFZhcmlhYmxlIE5hbWUiXjI%3D)
 

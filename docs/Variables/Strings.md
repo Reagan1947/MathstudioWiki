@@ -4,7 +4,7 @@
 
 字符串可以使用字符串连接符(<<)进行连接，该操作符将所有值转换为字符串。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=IkhlbGxvIFdvcmxkIg%3D%3D&input[1]=J0hlbGxvIFdvcmxkJw%3D%3D&input[2]=IkhlbGxvIiA8PCAiICIgPDwgIldvcmxkIg%3D%3D&input[3]=IkhlbGxvIFdvcmxkIiAtPiAxLi41&input[4]=IkhlbGxvIFdvcmxkIiAtPiA3Li4k&input[5]=IkFCQ0RFRkdISUpLIiAtPiAoMS4uJCAtPiAyKQ%3D%3D)
 

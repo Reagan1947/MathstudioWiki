@@ -4,7 +4,7 @@
 
 在脚本中创建的变量只能在该脚本中访问。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=QGN1YmUoeCkNCngqeCp4&input[1]=Y3ViZSg4KQ%3D%3D&input[2]=QHN1bU9mKG51bWJlcnMpDQpzdW0gPSAwDQpmb3IgbnVtYmVyIGluIG51bWJlcnMNCiBzdW0gKz0gbnVtYmVyDQplbmQNCnN1bQ%3D%3D&input[3]=c3VtT2YoWzEsMiwzLDQsNSw2LDcsOCw5LDEwXSk%3D&input[4]=c3VtT2YoMToyMCk%3D)
 

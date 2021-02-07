@@ -2,7 +2,7 @@
 
 MathStudio可以创建几种以交互方式更改变量的控件。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=U2xpZGVyKG4sIDEsIDUwKQ0KRXhwYW5kKChhK2IpXm4p&input[1]=U2xpZGVyKGEsIDEsIDEwLCAwLjEpDQpQbG90KHNpbihhKngpKQ%3D%3D&input[2]=U2xpZGVyKFthLGJdLCAxLCAxMCwgMC4xKQ0KUGxvdChzaW4oYSp4KSwgY29sb3I9cmVkKQ0KUGxvdChjb3MoYip4KSwgY29sb3I9Ymx1ZSk%3D)
 

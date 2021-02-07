@@ -73,9 +73,9 @@
   - [5. Conditional Statements 条件语句](Scripts/ConditionalStatements)
   - [6. For-In Loops for循环](Scripts/For-InLoops)
   - [7. While Loops while循环](Scripts/WhileLoops)
-  - [8. Timing](Scripts/Timing)
-  - [9. Objects](Scripts/Objects)
-  - [10. Working with JSON](Scripts/WorkingwithJSON)
+  - [8. Timing 计时](Scripts/Timing)
+  - [9. Objects 对象](Scripts/Objects)
+  - [10. Working with JSON 使用JSON](Scripts/WorkingwithJSON)
   
 
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  

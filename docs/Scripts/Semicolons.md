@@ -2,7 +2,7 @@
 
 分号可以用来在一行中写多个独立的语句。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=YT0xO2I9MjtjPTMNCmErYitj)
 

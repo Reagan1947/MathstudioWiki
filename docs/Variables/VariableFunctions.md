@@ -2,7 +2,7 @@
 
 使用带参数列表的括号来定义一个自定义函数。
 
-### 例子
+### 示例
 
 [在MathStudio中浏览](http://mathstud.io/?input[0]=Zih4KT14XjINCmYoNSk%3D&input[1]=Zih4LHkpPXheMit5XjINCmYoMiwzKQ%3D%3D&input[2]=Y3ViZSh4KT14XjMNCmN1YmUoOSk%3D)
 
