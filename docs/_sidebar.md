@@ -53,29 +53,31 @@
   - [6. Color Names](Graphing/ColorNames)
   - [7. Time Graphing](TimeGraphing)
   
+
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Scripting Language 脚本语言</li>
 </ul>-->
 
 * Variables 变量
-  - [1. Creating Variables](Variables/CreatingVariables)
-  - [2. Unicode Characters](Variables/UnicodeCharacters)
-  - [3. Variable Functions](Variables/VariableFunctions)
-  - [4. Strings](Variables/Strings)
-  - [5. Wildcards](Variables/Wildcards)
+  - [1. Creating Variables 创建变量](Variables/CreatingVariables)
+  - [2. Unicode Characters Unicode字符](Variables/UnicodeCharacters)
+  - [3. Variable Functions 自定义函数](Variables/VariableFunctions)
+  - [4. Strings 字符串](Variables/Strings)
+  - [5. Wildcards 通配符](Variables/Wildcards)
   
 * Scripts 脚本
-  - [1. Creating Scripts](Scripts/CreatingScripts)
-  - [2. Semicolons](Scripts/Semicolons)
-  - [3. Comments](Scripts/Comments)
-  - [4. Variable Controls](Scripts/VariableControls)
-  - [5. Conditional Statements](Scripts/ConditionalStatements)
-  - [6. For-In Loops](Scripts/For-InLoops)
-  - [7. While Loops](Scripts/WhileLoops)
-  - [8. Timing](Scripts/Timing)
-  - [9. Objects](Scripts/Objects)
-  - [10. Working with JSON](Scripts/WorkingwithJSON)
+  - [1. Creating Scripts 创建脚本](Scripts/CreatingScripts)
+  - [2. Semicolons 分号](Scripts/Semicolons)
+  - [3. Comments 注释](Scripts/Comments)
+  - [4. Variable Controls 变量控件](Scripts/VariableControls)
+  - [5. Conditional Statements 条件语句](Scripts/ConditionalStatements)
+  - [6. For-In Loops for循环](Scripts/For-InLoops)
+  - [7. While Loops while循环](Scripts/WhileLoops)
+  - [8. Timing 计时](Scripts/Timing)
+  - [9. Objects 对象](Scripts/Objects)
+  - [10. Working with JSON 使用JSON](Scripts/WorkingwithJSON)
   
+
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Functions 函数</li>
 </ul>-->
