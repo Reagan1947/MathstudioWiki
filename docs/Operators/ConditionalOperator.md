@@ -27,7 +27,7 @@
 >   ```math
 >   1 ? "True" : "False"
 >   ```
->   $\rm x_{True}$
+>   $\rm {True}$
 
 
 >   ```math
