@@ -1,3 +1,13 @@
+<style>button.object {
+    font-size: 18px;
+    border-radius: 6px;
+    background: #888;
+    cursor: pointer;
+    color: white;
+    border: 0;
+    height: 1.5em;
+}
+</style>
 ### 使用JSON
 
 MathStudio可以使用JSON函数将JSON数据解析为对象，也可以使用http函数从URL解析JSON数据。
