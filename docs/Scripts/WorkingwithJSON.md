@@ -1,4 +1,5 @@
-<style>button.object {
+<style>
+    button.object {
     font-size: 18px;
     border-radius: 6px;
     background: #888;
@@ -6,7 +7,18 @@
     color: white;
     border: 0;
     height: 1.5em;
-}
+    }
+    
+    button.object>div {
+    font-size: 13px;
+    background-color: white;
+    margin: 3px 4px 0 6px;
+    border-radius: 3px;
+    padding: 1px 2px 0;
+    color: #888;
+    display: inline-block;
+    vertical-align: top;
+    }
 </style>
 ### 使用JSON
 
