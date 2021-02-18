@@ -19,6 +19,12 @@
     display: inline-block;
     vertical-align: top;
     }
+    
+    ul.object {
+    margin: 4px 4px 20px;
+    font-size: 13px;
+    font-weight: normal;
+    }
 </style>
 ### 使用JSON
 
