@@ -1,0 +1,44 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "lstoryzx",
+      "name": "lstoryzx",
+      "avatar_url": "https://avatars.githubusercontent.com/u/51326568?v=4",
+      "profile": "https://github.com/lstoryzx",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "Reagan1947",
+      "name": "Reagan lee",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35622305?v=4",
+      "profile": "http://cnblogs.com/guten-tag",
+      "contributions": [
+        "content",
+        "code",
+        "maintenance"
+      ]
+    },
+    {
+      "login": "YuYuCong",
+      "name": "William Yu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/30014869?v=4",
+      "profile": "http://williamyu.top",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "MathstudioWiki",
+  "projectOwner": "Reagan1947",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

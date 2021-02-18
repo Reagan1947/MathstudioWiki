@@ -1,84 +1,22 @@
-<!-- docs/_sidebar.md -->
-
-* [**Home Page 首页**](/)
-
-<!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b;">Using MathStudio 使用MathStudio</li>
-</ul>-->
-
-<style>
-  .sidebar li>p {
-  color:#8b008b
-  }
-</style>
-
-* The Basics 基础
-  - [1. Introduction 介绍](TheBasics/Introduction)
-  - [2. Trigonometric Functions 三角函数](TheBasics/TrigonometricFunctions)
-  - [3. Special Values 特殊值](TheBasics/SpecialValues)
-  - [4. List 列表](TheBasics/List)
-  - [5. Matrices 矩阵](TheBasics/Matrices)
-  - [6. Algebra 代数](TheBasics/Algebra)
-  - [7. Calculus 微积分](TheBasics/Calsulus)
-
-* Operators 运算符
-  - [1. Basic Operators 基础运算符](Operators/BasicOperators)
-  - [2. Double Power Operators 双幂运算符](Operators/DoublePowerOperator)
-  - [3. Comparison Operators 比较运算符](Operators/ComparisonOperators)
-  - [4. Logical Operators 逻辑运算符](Operators/LogicalOperators)
-  - [5. Compound Assignment Operators 复合赋值运算符](Operators/CompoundAssignmentOperators)
-  - [6. Type Comparison Operators 类型比较运算符](Operators/TypeComparisonOperators)
-  - [7. Size Operator 大小运算符](Operators/SizeOperator)
-  - [8. Range Operator 范围运算符](Operators/RangeOperator)
-  - [9. Transformation Operator 转换运算符](Operators/TransformationOperator)
-  - [10. Index Operator 索引运算符](Operators/IndexOperator)
-  - [11. Union Operator 合并运算符](Operators/UnionOperator)
-  - [12. Intersection Operator 交集运算符](Operators/IntersectionOperator)
-  - [13. Difference Operator 差异运算符](Operators/DifferenceOperator)
-  - [14. Double Modulo Operator 双模运算符](Operators/DoubleModuloOperator)
-  - [15. Matrix Operator 矩阵运算符](Operators/MatrixOperator)
-  - [16. Matrix Size Operator 矩阵大小运算符](Operators/MatrixSizeOperator)
-  - [17. Angle Operator 角运算符](Operators/AngleOperator)
-  - [18. Choose Operator 选择运算符](Operators/ChooseOperator)
-  - [19. String Concatenation Operator 字符串连接运算符](Operators/StringConcatenationOperator)
-  - [20. Conditional Operator 条件运算符](Operators/ConditionalOperator)
-  - [21. Append Operator 添加运算符](Operators/AppendOperator)
-  - [22. Element Operator 元素运算符](Operators/ElementOperator)
-
-* Graphing 图像
-  - [1. 2D Graphing](Graphing/2DGraphing)
-  - [2. Plot Styles](Graphing/PlotStyles)
-  - [3. Min, Max and Zero Values](Graphing/MinMaxandZeroValues)
-  - [4. 3D Graphing](Graphing/3DGraphing)
-  - [5. Multiple Plots](Graphing/MultiplePlots)
-  - [6. Color Names](Graphing/ColorNames)
-  - [7. Time Graphing](TimeGraphing)
-  
-
-<!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
-  <li style="color:#8b008b;">Scripting Language 脚本语言</li>
-</ul>-->
-
 * Variables 变量
-  - [1. Creating Variables 创建变量](Variables/CreatingVariables)
-  - [2. Unicode Characters Unicode字符](Variables/UnicodeCharacters)
-  - [3. Variable Functions 自定义函数](Variables/VariableFunctions)
-  - [4. Strings 字符串](Variables/Strings)
-  - [5. Wildcards 通配符](Variables/Wildcards)
+  - [1. Creating Variables](Variables/CreatingVariables)
+  - [2. Unicode Characters](Variables/UnicodeCharacters)
+  - [3. Variable Functions](Variables/VariableFunctions)
+  - [4. Strings](Variables/Strings)
+  - [5. Wildcards](Variables/Wildcards)
   
 * Scripts 脚本
-  - [1. Creating Scripts 创建脚本](Scripts/CreatingScripts)
-  - [2. Semicolons 分号](Scripts/Semicolons)
-  - [3. Comments 注释](Scripts/Comments)
-  - [4. Variable Controls 变量控件](Scripts/VariableControls)
-  - [5. Conditional Statements 条件语句](Scripts/ConditionalStatements)
-  - [6. For-In Loops for循环](Scripts/For-InLoops)
-  - [7. While Loops while循环](Scripts/WhileLoops)
-  - [8. Timing 计时](Scripts/Timing)
-  - [9. Objects 对象](Scripts/Objects)
-  - [10. Working with JSON 使用JSON](Scripts/WorkingwithJSON)
+  - [1. Creating Scripts](Scripts/CreatingScripts)
+  - [2. Semicolons](Scripts/Semicolons)
+  - [3. Comments](Scripts/Comments)
+  - [4. Variable Controls](Scripts/VariableControls)
+  - [5. Conditional Statements](Scripts/ConditionalStatements)
+  - [6. For-In Loops](Scripts/For-InLoops)
+  - [7. While Loops](Scripts/WhileLoops)
+  - [8. Timing](Scripts/Timing)
+  - [9. Objects](Scripts/Objects)
+  - [10. Working with JSON](Scripts/WorkingwithJSON)
   
-
 <!--<ul class="sidebar-nav" style="padding-bottom: 0!important">  
   <li style="color:#8b008b;">Functions 函数</li>
 </ul>-->
@@ -401,11 +339,3 @@
   - [While(condition)](W/While)
 * Z
   - [Zeta(z, [a])](Z/Zeta)
-
-* Help 帮助
-  - [1. 如何在github中编辑文档]()
-  - [2. 如何使用git工具]()
-  - [3. 如何使用MarkDown编辑器]()
-  - [4. 汉化文档标准]()
-
-* [**About Us 关于我们**](AboutUs/AboutUs)
