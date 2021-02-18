@@ -1,6 +1,6 @@
 ## 角运算符
 
-角运算符(@a)或(@angle)以极坐标形式输入一个数字(r∠θ)。
+角运算符(@a)或(@angle)以极坐标形式(r∠θ)输入一个数字。
 
 ## 举例  
 [在Mathstudio上浏览](http://mathstud.io/?input[0]=NCBAYSAxMjBAZA%3D%3D)
